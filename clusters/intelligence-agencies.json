@@ -482,17 +482,17 @@
       "value": "National Security Agency (Bahrain)"
     },
     {
-      "description": "National Committee for Intelligence Coordination",
+      "description": "BGD e-GOV CIRT",
       "meta": {
         "country": "BD",
         "country_name": "Bangladesh",
         "refs": [
-          "https://en.wikipedia.org/wiki/National_Committee_for_Intelligence_Coordination"
+          "https://www.cirt.gov.bd"
         ]
       },
       "related": [],
       "uuid": "dfa2183f-9ac6-5542-8a75-79d9d9c692e9",
-      "value": "National Committee for Intelligence Coordination"
+      "value": "BGD e-GOV CIRT"
     },
     {
       "description": "National Security Intelligence (NSI)",
